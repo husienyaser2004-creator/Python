@@ -55,7 +55,7 @@ print("#" * 40)
 
 # print Specific Date 
 print(datetime.datetime(2004, 10 , 21))
-print(datetime.datetime(2004, 10 , 21, 4 , 55, 150364))
+print(datetime.datetime(2004, 10 , 21, 4 , 55, 59))
 
 print("#" * 40)
 
